@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(193, 252, 252);
+  text-align: center;
+}
+
+.reasons li {
+  position: relative;
+  display: block;
+  text-align: center;
+}
